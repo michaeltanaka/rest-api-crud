@@ -4,6 +4,6 @@
     "port": 3306,
     "user": "root",
     "password": "p@ssword",
-    "database": "rest_api_crud"
+    "database": "rest-api-crud"
   }
 }
